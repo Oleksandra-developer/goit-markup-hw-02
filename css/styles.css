@@ -153,6 +153,13 @@ a {
   letter-spacing: 0.02em;
   color: var(--main-text);
 }
+.link-active {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.143;
+  letter-spacing: 0.02em;
+  color: var(--accent-color);
+}
 nav .link {
   color: var(--title-color);
 }
